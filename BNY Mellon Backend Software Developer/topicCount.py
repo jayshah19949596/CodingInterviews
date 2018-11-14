@@ -1,4 +1,5 @@
 # Complete the function below.
+import urllib
 
 
 def getTopicCount(topic):
