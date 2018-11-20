@@ -11,11 +11,11 @@ Repeat until there are no sticks left.
 Return an array where elements are the number of sticks you had at the beginning of each turn.   
 
 For example, consider an array representing the lengths of four sticks `[1, 1, 2, 3]`.  
-the shortest sticks are 1 unit long.
+The shortest sticks are 1 unit long.
 Discard them. Remove 1 unit from the other two sticks and discard the scrap.  
 Now you have two sticks lengths `[1, 2]`.  
 Do the same and you'll have one stick of the length `[1]`.   
-Discard it and return an array with the number of sticks you had at the start of each turn `[4, 2, 1]1.
+Discard it and return an array with the number of sticks you had at the start of each turn `[4, 2, 1] 1.
 
 	lengths    cut length  sticks
 	1 1 2 3       1          4
@@ -28,10 +28,10 @@ Function Description:
 Complete the function `cutSticks` in the editor below.  
 The function must return an array of integers representing the number of sticks at the start of each turn.
 
-cutSticks has the following parameter(s):   
+`cutSticks` has the following parameter(s):   
    lengths[lengths[0], ...., lengths[n-1]]: an array of integers representing the stating stick lengths.
    
-Constrainsts:  
+Constraints:  
  - 1 <= n <= 1000 
  - 1 <= lengths[i] <= 1000, where 0 <= i < n
 
@@ -57,7 +57,7 @@ Next `n` lines contains integer values representing the values in the array
 	
 	Explanation 0:
 	lengths       cut length  sticks
-	5 4 4 2 2 8      2          4
+	5 4 4 2 2 8      2          6
 	3 2 2 _ _ 6      2          4
 	1 _ _ _ _ 4      1          2
 	_ _ _ _ _ 3      3          1
