@@ -56,7 +56,7 @@ Your goal is to determine the longest string chain available for a given diction
 
 
 
-for example, given a dictionary [a, and, ab, bear] the word **and** could be reduced to **an** and the word **an** to **a**. 
+for example, given a dictionary [a, and, an, bear] the word **and** could be reduced to **an** and the word **an** to **a**. 
 The single character **a** can not be reduced to any further as the null string is not in the dictionary.
 This  would be the longest string chain, having a length 3. The word **bear** can not be reduced at all.
 
