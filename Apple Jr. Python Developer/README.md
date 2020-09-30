@@ -7,7 +7,7 @@ Apple is seeking a Python Developer to update existing and implement new utility
 These self-contained utility commands are exposed to our Client users and perform custom functions not provided by Client, such as:  
 conversion of data records integrate with ticketing systems, integrate with chat bots, enriching data records with external info, exchange data with other internal systems.  
 
-does this fir you skill set
+Does this fit your skill set?
 
 Select Yes or No
  
