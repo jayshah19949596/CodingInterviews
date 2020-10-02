@@ -1,8 +1,8 @@
 - This repository is for the ones who want to do well in their coding interviews.   
 - This repository will help you know what kind of questions to expect and you can also practice the questions in this repository.    
 - I am creating this repository because initially I faced a lots of rejection because there was no resource like this.    
-- I want others to do good in their coding interviews, hence I am making this repository public.    
-- If you think that this repository is helpful then don't forget to star :star: this repository, so that others can discover this repository. 
+- I want to see others to do good in their coding interviews, hence I am making this repository public.    
+- If you think that this repository is helpful then don't forget to star :star: this repository, so that others can easily discover this repository. 
 - Do Read my article on Medium [How to do well in a coding interview](https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5)   
 
 <table align="center">
