@@ -7,28 +7,28 @@ Ans.
 
 2. How can you prevent over-fitting?   
 Ans. 
-   - By regularization we can prevent over-fitting
+   - By regularization we can prevent over-fitting.
    
 3. What are dropouts?  
 Ans.
-   - Dropout is a type of over-fitting
-   - Dropouts help in preventing over-fitting
+   - Dropout are a type of regularization.
+   - Dropouts help in preventing over-fitting.
    - Dropouts randomly skip the signal passing from the neurons.
    - Because of random skipping it helps in avoiding the weights to explode.
    
 4. What is batch-normalization?  
 Ans.
-   - batch-normalization is a normalization of the batch data being processed
-   - If the data in it's raw format is normalized to get good results then same is the idea to normalize the data in the intermediary layers 
+   - batch-normalization is a normalization of the batch data being processed.
+   - If the data in it's raw format is normalized to get good results then same is the idea to normalize the data in the intermediary layers. 
    
 5. Importance of residual networks?  
 Ans.
-   - Residual Networks avoid over-fitting
-   - Even with increasing the layers the Residual Networks avoid over-fitting
+   - Residual Networks avoid over-fitting.
+   - Even with increasing the layers the Residual Networks avoid over-fitting.
    
 6. What is one hot encoding?  
 Ans.
-	- Transforming the data from raw to a vector which has only one value "1" and all other values "0" is called one hot encoding
+	- Transforming the data from raw to a vector which has only one value "1" and all other values "0" is called one hot encoding.
 
 	
 7. Explain GAN?  
